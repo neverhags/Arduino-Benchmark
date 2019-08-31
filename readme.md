@@ -25,10 +25,10 @@ Comparto el código y los resultados de mis placas
 ## ESP32 @160MHz
 * Last: 3524578
 * N: 4935653
-## ESP8266 @80MHz
+## ESP32 @80MHz
 * Last: 2178309
 * N: 2494168
-## ESP8266 @40MHz (x-tal)
+## ESP32 @40MHz (x-tal)
 * Last: 832040
 * N: 1193193
 
