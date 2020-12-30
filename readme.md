@@ -9,6 +9,10 @@ Comparto el código y los resultados de mis placas
 ## Arduino ProMicro (Atmega32U4)
 * Last: 1346269
 * N: 2165712
+## Arduino Mega
+* Last: 1346269
+* N: 1590471
+
 
 # LGT8F328
 ## LGT8F328 @37Mhz
