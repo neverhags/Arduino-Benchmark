@@ -3,12 +3,18 @@ Curioseando la capacidad de mis arduinos quise probar que tanta diferencia en pr
 
 Comparto el código y los resultados de mis placas
 # Arduino
-## Arduino nano (Atmega328P)
+## Arduino Uno/Nano (Atmega328P)
 * Last: 1346269
 * N: 1916125
-## Arduino pro micro (Atmega32U4)
+## Arduino ProMicro (Atmega32U4)
 * Last: 1346269
 * N: 2165712
+
+# LGT8F328
+## LGT8F328 @37Mhz
+* Last: 3524578
+* N: 4551210
+
 
 # ESP8266
 ## ESP8266 @160MHz
