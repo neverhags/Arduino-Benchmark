@@ -18,6 +18,12 @@ Comparto el código y los resultados de mis placas
 ## LGT8F328 @37Mhz
 * Last: 3524578
 * N: 4551210
+## LGT8F328 @16Mhz
+* Last: 2178309
+* N: 2275594
+## LGT8F328 @8Mhz
+* Last: 832040
+* N: 1137786
 
 
 # ESP8266
