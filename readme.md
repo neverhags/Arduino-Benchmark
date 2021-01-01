@@ -1,8 +1,8 @@
-# Arduino Benchmark
+# Development Boards Benchmark
 Curioseando la capacidad de mis arduinos quise probar que tanta diferencia en procesamiento tienen entre estos y me dispuse a crear un código simple que pudiese ser corrido en todos ellos y que a su vez me permisiese medir la velocidad de cómputo (ciclos vs tiempo)
 
 Comparto el código y los resultados de mis placas
-# Arduino
+# Arduinos
 ## Arduino Uno/Nano (Atmega328P)
 * Last: 1346269
 * N: 1916125
